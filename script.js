@@ -1,4 +1,6 @@
 
-exports.createAutoComplete = (data){
-  //your code
+module.exports = {
+  createAutoComplete: function(data){
+    //your code
+  }
 }
